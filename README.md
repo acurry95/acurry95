@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @acurry95
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning the basics, HTML, JS, and CSS
+- 💞️ I’m looking to collaborate on anything, I just want to learn and get into the industry
+- 📫 How to reach me acurry95@live.com
